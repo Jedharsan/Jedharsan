@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @Jedharsan
+- pursuing my career as cloud engineer
